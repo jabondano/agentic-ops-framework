@@ -27,10 +27,25 @@ A battle-tested methodology for deploying AI agents across enterprise operating 
 ## Repository Structure
 
 ```
-/framework      → Core methodology documentation
-/templates      → Reusable templates for implementation
-/research       → Supporting research and statistics
-/lead-magnet    → Downloadable resources
+/framework
+  ├── 01-division-architecture.md    → Flat networks of human-supervised AI teams
+  ├── 02-knowledge-capture.md        → Workforce-as-training-data philosophy
+  ├── 03-tool-integration.md         → AI mesh connecting enterprise systems
+  ├── 04-governance.md               → Agents control agents
+  └── 05-change-management.md        → $3 change management for every $1 AI
+
+/templates
+  ├── DIVISION.md                    → Document any business division
+  ├── PROCESSES.md                   → Standard operating procedures
+  ├── SYSTEMS.md                     → Software & tool documentation
+  ├── CUSTOM-INSTRUCTIONS.md         → Claude Project instructions
+  └── discovery-interview.md         → Client discovery questions
+
+/research
+  └── synthesis.md                   → Research notes and case studies
+
+/lead-magnet
+  └── playbook-outline.md            → Downloadable PDF outline
 ```
 
 ---
